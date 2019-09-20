@@ -10,6 +10,7 @@ function add2(n) {
   return n + 2
 }
 function funkyFunction() {
+}
 function theFunk() {
   return "FUNKY!"
 
