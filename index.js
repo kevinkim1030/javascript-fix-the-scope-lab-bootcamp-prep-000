@@ -1,6 +1,6 @@
 function myAnimal() {
   y = 'dog'
-  console.log()
+  console.log(y)
 }
 
 
