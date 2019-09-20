@@ -10,12 +10,10 @@ function add2(n) {
   return n + 2
 }
 function funkyFunction() {
+  return function();
+  return = 'FUNKY!'
 }
-function theFunk() {
-  var mood = 'FUNKY!'
-  return mood
 
-}
 
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
