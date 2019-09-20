@@ -12,7 +12,8 @@ function add2(n) {
 function funkyFunction() {
 }
 function theFunk() {
-  return "FUNKY!"
+  var mood = 'FUNKY!'
+  return mood
 
 }
 
