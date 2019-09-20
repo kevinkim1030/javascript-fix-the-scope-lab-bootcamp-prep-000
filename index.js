@@ -9,8 +9,10 @@ function yourAnimal() {
 function add2(n) {
   return n + 2
 }
+function funkyFunction() {
+function theFunk() {
 
-
+}
 
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
