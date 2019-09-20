@@ -1,5 +1,6 @@
 function myAnimal() {
-  return var = 'dog'
+  y = 'dog'
+  console.log()
 }
 
 
